@@ -1,0 +1,18 @@
+Define the  RESTful routes. Structure the CRUD app.
+
+# Create
+INDEX -- /POST -- Create new todo
+
+# Read
+INDEX -- /GET -- List all todo's 
+INDEX/:id -- /GET -- View specific todo
+
+# Update
+INDEX/:id -- /PUT -- Update a todo
+
+# Delete
+INDEX/:id -- /DELETE -- Delete a todo 
+
+
+
+
